@@ -1,0 +1,6 @@
+Debug
+
+
+file.txt
+WindowsFormsApplication1.exe
+WindowsFormsApplication1.exe.config
