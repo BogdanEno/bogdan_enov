@@ -1,0 +1,57 @@
+Список каталогов
+.vs
+Список подкаталогов
+v14
+v15
+WindowsFormsApplication1
+Список файлов подкаталога
+
+bin
+Список подкаталогов
+screenshot
+Debug
+Список файлов подкаталога
+file.txt
+WindowsFormsApplication1.exe
+WindowsFormsApplication1.exe.config
+WindowsFormsApplication1.pdb
+WindowsFormsApplication1.vshost.exe
+WindowsFormsApplication1.vshost.exe.config
+WindowsFormsApplication1.vshost.exe.manifest
+
+obj
+Список подкаталогов
+TempPE
+Debug
+Список файлов подкаталога
+DesignTimeResolveAssemblyReferences.cache
+DesignTimeResolveAssemblyReferencesInput.cache
+f3d12a19-8c86-4c27-bba1-37854cb3d88e_WindowsFormsApplication1.exe
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+WindowsFormsApplication1.csproj.FileListAbsolute.txt
+WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+WindowsFormsApplication1.exe
+WindowsFormsApplication1.Form1.resources
+WindowsFormsApplication1.Form2.resources
+WindowsFormsApplication1.pdb
+WindowsFormsApplication1.Properties.Resources.resources
+WindowsFormsApplication1.csproj.GenerateResource.Cache
+
+Properties
+Список подкаталогов
+
+Список файлов
+App.config
+file.txt
+Form1.Designer.cs
+Form1.resx
+WindowsFormsApplication1.csproj
+WindowsFormsApplication1.exe
+WindowsFormsApplication1.sln
+Form2.resx
+Form2.Designer.cs
+Form2.cs
+Program.cs
+Form1.cs
