@@ -1,0 +1,11 @@
+ Debug
+- file.txt
+- WindowsFormsApplication1.exe
+- WindowsFormsApplication1.exe.config
+- WindowsFormsApplication1.pdb
+- WindowsFormsApplication1.vshost.exe
+- WindowsFormsApplication1.vshost.exe.config
+- WindowsFormsApplication1.vshost.exe.manifest
+- screenshot
+-- 28-11-2017 22-36-30.png
+-- 28-11-2017 22-37-23.png
